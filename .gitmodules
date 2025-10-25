@@ -1,0 +1,3 @@
+[submodule "tvshowdownload"]
+	path = tvshowdownload
+	url = https://github.com/bubudetp/tvshowdownload.git
