@@ -1,3 +1,6 @@
 [submodule "tvshowdownload"]
 	path = tvshowdownload
 	url = https://github.com/bubudetp/tvshowdownload.git
+[submodule "home-notifications"]
+	path = home-notifications
+	url = https://github.com/bubudetp/home-notifications.git
